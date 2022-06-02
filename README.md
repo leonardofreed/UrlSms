@@ -1,1 +1,1 @@
-{"SendMessage":"02","MyMessage":"BOM DIA A TODOS..."}
+{"SendMessage":"02","MyMessage":"Em breve teremos noticias..."}
