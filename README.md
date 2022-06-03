@@ -1,1 +1,1 @@
-{"SendMessage":"06","MyMessage":"Claro atualizada."}
+{"SendMessage":"06","MyMessage":"Claro atualizado."}
